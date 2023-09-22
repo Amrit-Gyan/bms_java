@@ -1,0 +1,31 @@
+Introducing Console based Java Project - Bank Management System
+
+This Project is built by me where
+User can open thier account,
+They can 
+1.Create an account
+2.Deposit
+3.Withdraw
+4.Check Balance
+5.Update Details
+6.Check Account details
+
+It is an Console-based Project where I have implemented concept of inheritance for 
+better reusability, interfaces for secure purpose and features of Oops.
+
+There are 4 main files :- 
+	1. XYZBank.java
+	2. Bank.java
+	3. AccountCreation.java
+	4. Processes.java
+
+**To Test the project, Save the file in your desktop and open the file location in cmd.
+**Now Compile those 4 mentioned files by command :-
+1. javac Processes.java
+2. javac AccountCreation.java
+3. javac Bank.java
+4. javac XYZBank.java 
+
+2.Now run the main file - java XYZBank
+
+Thank You
